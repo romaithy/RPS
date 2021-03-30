@@ -1,2 +1,3 @@
 # RPS
-Rock Paper Scissors Game
+Simple Rock Paper Scissors Game
+Made for school project. 
